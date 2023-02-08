@@ -4,7 +4,8 @@
 A brief overview of the topic or problem that the project addresses.
 
 ## Group Members
-- [![Name 1](https://cdn.icon-icons.com/icons2/1378/PNG/512/icon-github_96062.png)](Link to Github profile) Name 1
+- Name 1 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+
 - [![Name 2](https://cdn.icon-icons.com/icons2/1378/PNG/512/icon-linkedin_96069.png)](Link to LinkedIn profile) Name 2
 - [![Name 3](https://cdn.icon-icons.com/icons2/1378/PNG/512/icon-github_96062.png)](Link to Github profile) Name 3
 
