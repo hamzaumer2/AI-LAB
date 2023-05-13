@@ -1,0 +1,51 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+63,male,typical angina,145,233,1,normal,150,no,2.3,downsloping,0,normal,1
+37,female,atypical angina,130,250,0,ST-T wave abnormality,187,no,3.5,upsloping,0,normal,0
+41,male,non-anginal pain,130,204,0,normal,172,no,1.4,flat,0,normal,0
+56,female,atypical angina,120,236,0,ST-T wave abnormality,178,no,0.8,flat,0,normal,0
+57,male,asymptomatic,120,354,0,ST-T wave abnormality,163,yes,0.6,flat,0,normal,0
+44,male,atypical angina,140,235,0,normal,180,no,0.4,upsloping,0,normal,0
+52,male,typical angina,120,268,0,normal,160,no,0,upsloping,0,normal,0
+57,male,typical angina,140,354,0,ST-T wave abnormality,163,yes,0.6,flat,0,reversible,1
+54,female,asymptomatic,160,201,0,ST-T wave abnormality,163,no,0.4,flat,0,reversible,0
+50,male,asymptomatic,120,205,0,normal,170,0,1.5,flat,1,fixed,1
+65,female,atypical angina,140,289,1,normal,145,0,2.5,upsloping,0,normal,0
+48,female,non-anginal pain,130,275,0,normal,139,0,0.2,upsloping,0,normal,0
+62,male,asymptomatic,130,263,0,normal,97,1,1.2,upsloping,0,normal,0
+41,male,atypical angina,130,204,0,normal,172,0,1.4,upsloping,0,normal,0
+64,female,atypical angina,120,246,0,normal,96,1,2.2,upsloping,0,normal,0
+57,female,asymptomatic,140,192,0,normal,148,0,0.4,upsloping,0,normal,0
+56,male,asymptomatic,140,294,0,normal,153,0,1.3,upsloping,0,normal,0
+44,male,asymptomatic,120,220,0,normal,170,0,0,upsloping,0,normal,0
+50,female,non-anginal pain,130,197,0,normal,152,0,0.6,flat,1,fixed,1
+58,male,asymptomatic,100,234,0,normal,156,0,0.1,upsloping,1,fixed,1
+41,female,non-anginal pain,130,214,0,normal,168,0,2,upsloping,0,normal,0
+43,male,asymptomatic,130,315,0,normal,162,0,1.9,flat,1,fixed,1
+54,female,asymptomatic,135,304,1,normal,170,0,0.5,upsloping,0,normal,0
+49,female,non-anginal pain,130,269,0,normal,163,0,0,upsloping,0,normal,0
+65,male,asymptomatic,140,417,1,normal,157,0,0.8,flat,1,fixed,1
+63,female,asymptomatic,130,330,1,normal,132,1,1.8,flat,2,fixed,1
+44,male,non-anginal pain,120,263,0,normal,173,0,0,upsloping,0,normal,0
+60,male,asymptomatic,130,206,0,normal,132,1,2.4,upsloping,2,fixed,1
+58,male,atypical angina,150,270,0,normal,111,1,0.8,flat,0,normal,0
+42,male,typical angina,135,236,0,normal,175,0,0.2,upsloping,1,normal,1
+56,male,atypical angina,132,184,0,normal,105,1,2.1,flat,1,normal,1
+67,male,non-anginal pain,120,229,0,normal,129,1,2.6,downsloping,2,fixed defect,0
+69,male,asymptomatic,140,239,0,normal,151,0,1.8,flat,2,normal,1
+57,male,typical angina,120,354,0,normal,163,1,0.6,flat,1,normal,1
+61,female,atypical angina,120,260,0,normal,140,1,3.6,flat,1,fixed defect,0
+57,male,atypical angina,150,168,0,normal,174,0,1.6,downsloping,0,normal,1
+64,male,asymptomatic,140,335,0,normal,158,0,0.0,upsloping,0,fixed defect,1
+71,female,non-anginal pain,112,149,0,normal,125,0,1.6,upsloping,0,normal,1
+44,male,asymptomatic,120,263,0,normal,173,0,0.0,flat,0,normal,1
+53,male,atypical angina,123,282,0,normal,95,1,2.0,flat,2,normal,1
+43,female,typical angina,120,294,0,normal,159,0,0.2,downsloping,0,normal,1
+48,male,asymptomatic,130,245,0,normal,180,0,0.2,flat,0,normal,1
+53,male,atypical angina,130,246,0,normal,173,0,0.0,flat,3,fixed defect,1
+59,female,atypical angina,150,212,1,normal,157,0,1.6,flat,0,normal,1
+61,male,non-anginal pain,130,330,0,normal,169,0,0.0,flat,0,normal,1
+58,male,asymptomatic,120,284,0,normal,160,0,1.8,downsloping,0,normal,1
+54,female,atypical angina,110,239,0,normal,126,1,2.8,flat,1,fixed defect,1
+45,male,typical angina,130,234,0,normal,175,0,0.6,flat,0,normal,1
+50,female,atypical angina,120,244,0,normal,162,0,1.1,flat,0,normal,1
+52,male,non-anginal pain,136,196,0,normal,169,0,0.1,downsloping,0,normal,1
